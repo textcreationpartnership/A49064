@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Maior. The right honourable the Lord Maior, minding and intending, by Gods help and the concurrent endeavours of his brethren the aldermen, to discover, punish, and suppress to the uttermost of his power, as the proper work and most incumbent duty of his office, those manifold corruptions  ...</title>
+            <author>City of London (England). Lord Mayor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49064</idno>
+            <idno type="STC">Wing L2885Q</idno>
+            <idno type="STC">ESTC R217724</idno>
+            <idno type="EEBO-CITATION">99829373</idno>
+            <idno type="PROQUEST">99829373</idno>
+            <idno type="VID">33812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Maior. The right honourable the Lord Maior, minding and intending, by Gods help and the concurrent endeavours of his brethren the aldermen, to discover, punish, and suppress to the uttermost of his power, as the proper work and most incumbent duty of his office, those manifold corruptions  ...</title>
+                  <author>City of London (England). Lord Mayor.</author>
+                  <author>Ford, Richard, Sir, d. 1678. aut</author>
+               </titleStmt>
+               <extent>[3] sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark, printer to the Honourable City of London, at his House in Aldersgatestreet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCLXXI. [1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Dated at the Guild-hall, London, the 7th of November, 1671 in the three and twentieth year of the reign of our Sovereign Lord Charles the Second, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c. God save the King.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Proclamations --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:33812:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>By the Maior.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Right Honourable the Lord Maior, minding and intending, by Gods help and the concurrent Endeavours of his Brethren the Aldermen, to diſcover, puniſh, and ſuppreſs to the uttermoſt of his power, as the proper Work and moſt incumbent Duty of his Office, thoſe manifold Corruptions, Abuſes, and Diſorders, which have broke in and of late times more exceedingly increaſed upon us, to the Diſhonour of Religion, and Scandal of the Government of this City; hath thought it not unneceſſary to make ſome publick mention of ſuch as are moſt obvious and noto<g ref="char:EOLhyphen"/>rious, with the Penalties and Puniſhments attending; thereby to admoniſh and forewarn, not only the Citizens and Inhabitants in general to reform and avoid thoſe and the like Evils and Enor<g ref="char:EOLhyphen"/>mities in their private Capacity and Converſation, but more particularly ſuch who are in Office and under greater Obligation to aſſiſt in Execution of the Laws Eſtabliſhed againſt the ſaid Offences: Of which ſort are</p>
+            <p>
+               <label>Profane Cur<g ref="char:EOLhyphen"/>ſing &amp; Swear<g ref="char:EOLhyphen"/>ing.</label> Firſt, Profane <hi>CURSING</hi> and <hi>SWEARING,</hi> for which the Law hath appointed a Penalty of Twelve pence, to the uſe of the Poor, to be paid and levied for every Offence; or (where no Diſtreſs can be had) to ſit three hours in the Stocks.</p>
+            <p>
+               <label>Profaning the Lords Day.</label> 
+               <hi>PROFANATION</hi> of the <hi>LORDS DAY</hi> by Sports and Tipling in Taverns, Inns, Ale-houſes, and Coffee-houſes, during Divine Service; the Statutes inflicting on all Perſons who ſhall meet to ſport, tipple, or uſe any unlawful Exerciſes on that day, Three ſhillings four pence for every Offence; and where no diſtreſs can be had, to ſit three hours in the Stocks; and Ten ſhillings on every Vintner, Inn-keeper, or Alehouſe-keeper, that ſhall ſuffer any ſuch Drinking or Tipling in his Houſe.</p>
+            <p>
+               <label>Bawdy-Hou<g ref="char:EOLhyphen"/>ſes.</label> Maintaining Houſes ſuſpected of Common <hi>BAWDRY,</hi> for which by Law the Offenders are to find Sureties for the Good Behaviour; and every Conſtable upon Information of Men or Women of evil report, reſorting to ſuch ſuſpected Houſes, may take and carry the Parties before a Iuſtice of Peace to find Sureties for the Good Behaviour.</p>
+            <p>
+               <label>Gaming-Hou<g ref="char:EOLhyphen"/>ſes.</label> Keeping of Common <hi>GAMING</hi>-Houſes, which every Iuſtice of the Peace may enter, and arreſt and impriſon the Houſe-keepers, till they find Sureties no longer to keep ſuch unlawful Gaming.</p>
+            <p>
+               <label>Drunkenneſs. Idle and looſe People.</label> The odious Sin of <hi>DRUNKENNESS;</hi> the Puniſhment by Law being, for the firſt Offence Five ſhillings, or ſix hours ſitting in the Stocks; and for the ſecond Offence to find Sureties for the Good Behaviour, or for want of Sureties to be committed to the Gaol: And like Surety for the Good Behaviour is to be found by common Drunkards, Haunters of Ale-houſes or Taverns, Common Gameſters, and ſuſpected Perſons, who live idly, and yet fare well and are well apparelled, having no Eſtate whereon to live (Except upon Examina<g ref="char:EOLhyphen"/>tion they ſhall give good account of their Living.)</p>
+            <p>
+               <label>Tipling.</label> Moreover no Perſon may ſit or continue, or be ſuffered to ſit or continue Tipling or Drinking in any Tavern, Victualling-houſe, Ale-houſe, Coffee-houſe, or other Tipling-houſe, (unleſs invited by a Traveller, during his neceſſary Abode there, and Handicrafts-men, Labourers, and Workmen for one hour at Dinner upon the Working-day, or ſojourning or lodging there, or that they be allowed by two Iuſtices of the Peace) upon the Penalty of Ten ſhillings for every Offence upon the Maſter of ſuch Houſe; and upon the Perſon that ſhall continue drinking Three ſhillings Four pence. And by the antient Cuſtom of the City none may remain to tipple or drink in any ſuch Houſe after Nine of the Clock at Night.</p>
+            <pb facs="tcp:33812:2" rendition="simple:additions"/>
+            <p> And therefore all Conſtables and other Officers whom it doth or may concern, are required to take care for diſcovering and bringing to Puniſhment whoſoever ſhall offend in the Premiſſes: And for that end they are to enter into any ſuſpected Houſes before-mentioned, and into any Tavern, Inn, Ale-houſe, Victualling-houſe, Coffee-houſe, or other Tipling-houſe, or Gaming-houſe, to ſearch for ſuch diſorderly Perſons, as ſhall be found miſ-behaving them<g ref="char:EOLhyphen"/>ſelves, tipling, or otherwiſe doing contrary to the ſaid Laws, and to levy the Penalties and cauſe the Offenders to come before ſome of his Majeſties Iuſtices of the Peace of this City, to be dealt withal according to Law.</p>
+            <p>And whereas the Streets and Common Paſſages, and all Places of Publick Meeting and Reſort, are exceedingly peſtered and annoyed by Vagrants and Beggars, and that for ſup<g ref="char:EOLhyphen"/>preſſing and avoiding of that greateſt living Nuſance, eſpecial Reſolution is taken to put in execution againſt them the good Laws in force with all Strictneſs and Severity: The ſaid Conſtables therefore are charged and required to apprehend all Rogues, Vagabonds, and ſturdy Beggars, that ſhall be found begging, vagrant, wandring, or miſ-ordering themſelves within their reſpective Pariſhes and Precincts; and ſuch of them as ſhall appear to have Dwel<g ref="char:EOLhyphen"/>lings or Abode within the City or Liberties to carry to <hi>Bridewel,</hi> there to be received and dealt withal according to Law, and others to puniſh and paſs away from Pariſh to Pariſh the next ſtreight way to the Pariſh where they were born, if the ſame may be known by the Parties Confeſſion or otherwiſe; or if it be not known, then to the Pariſhes where they laſt dwelt, before the ſame Puniſhment, by the ſpace of one whole year; or if that cannot be well known, then to the Pariſhes to which they laſt paſſed without Puniſhment; upon the Penalty and Forfeiture of Ten ſhillings for every default. Alſo every Inhabitant is to apprehend ſuch Beggars, <hi>&amp;c.</hi> as he ſhall know to reſort to his Houſe to beg or receive Alms, and carry or cauſe them to be carried to the next Conſtables; upon like Penalty or Forfeiture of Ten ſhillings for every Offence. And ſuch Conſtable is thereupon to puniſh and paſs away ſuch Beggar as aforeſaid, upon the Penalty of Twenty ſhillings for every default.</p>
+            <p>And that the Dwellings of all Conſtables may be known, and themſelves more readily found, they are forthwith (which of late hath been neglected) to have their Staffs duly placed or fixed at their Street-doors in open view of all Paſſengers; and themſelves to remain conſtantly at home, or leave ſome other fit and able Perſons to perform their Office in their Abſence. And the ſeveral Wards and Pariſhes are without delay to provide (where any are wanting) and to repair, and from time to time ſufficiently to maintain Cages, Stocks, Poſts, and other Inſtruments for correcting and puniſhing this ſort of Offenders, as the Law requires.</p>
+            <p>And moreover, the two Marſhals of this City are commanded (according to the antient expreſs Orders of their Place and Duty) to be on horſe-back, and their Men, with the Beadles of the four Hoſpitals that ſhall be thereunto appointed, on foot, ſometimes with them, and ſometimes without them, as occaſion ſhall require; and to ride and walk about, and compaſs all the Streets, Lanes, Alleys, and Corners of the City and Liberties, every day, duly and diligently; and ſo diſpoſe and divide themſelves, that once every day they or ſome of them may ſurvey every Quarter of the City: And that, as they paſs through the Streets, they appre<g ref="char:EOLhyphen"/>hend all Vagrants and wandring Rogues and Beggars, Men, Women and Children, and carry them either to <hi>Bridewel,</hi> or to the Conſtable of the Place where they ſhall be apprehended, to be conveyed and paſſed as the caſe ſhall require and is before directed. They are alſo to take notice of, and preſent ſuch Conſtables as they find remiſs and negligent of their Duty in this Service, to the end they may he proſecuted and puniſhed according to Law. And for their more Readineſs herein, are to take Information from the Beadles of the Wards of the Names and Dwelling-Places of every Conſtable within their ſeveral Wards, and of each ones ſeveral Precinct, that ſo they may find them eaſily upon all Occaſions.</p>
+            <p>And the ſaid Marſhals are to keep an exact and true Note, in writing in a Book, of every Vagrant, wandring Rogue, and Beggar, which ſhall be apprehended by them, and deli<g ref="char:EOLhyphen"/>vered to any Conſtable, or carried by them immediately to <hi>Bridewel,</hi> together with his Surname and Name of Baptiſm, and the Place of his or her Birth, and if that cannot be found, the Place of his or her laſt Dwelling, or if there be no ſuch, then the Place where he or ſhe laſt paſt through without Correction.</p>
+            <pb facs="tcp:33812:3"/>
+            <p> Alſo the Porter of <hi>Bridewel</hi> is to keep a Book wherein he ſhall truly enter the Surname, Name of Baptiſm, Place of Birth, and other the Premiſſes of or concerning every ſuch Perſon which ſhall be delivered into the Cuſtody of that Hoſpital.</p>
+            <p>Likewiſe for the Health and Cleanlineſs of the City, all Inhabitants, Houſholders, and others concerned, are warned and required to keep the Streets before their Houſes and Ground duly paved and ſwept, and the Soil to be taken up and kept in Baskets, Tubs, or other Veſ<g ref="char:EOLhyphen"/>ſels, till the coming of the Raker, upon pain of Three ſhillings Four pence; and not to throw or ſuffer any Aſhes, Dirt, or other Filth to be caſt out into the Streets before their own Ground or Houſes, upon pain of Five ſhillings; nor before their Neighbours, or any Church or Church-Yard, or other publick Place or Building, or into any Common Sink, Vault, Water-courſe, or Sewer, upon pain of Twenty ſhillings; (being the reſpective Penalties for every Offence in thoſe ſeveral Caſes provided by a late Act of Parliament) And the Scavengers to ſee the ſaid Streets accordingly ſwept and cleanſed, or the Offenders proſecuted and puniſhed, and the Soil, Dirt, and Rubbiſh daily taken up and carried away by the Rakers, as by the ſaid Act and ſeveral other Acts, Orders, and late Precepts in that behalf hath been enjoyned and directed.</p>
+            <p>Moreover, for the Common Safety and Peace of the City, and Convenience of all whoſe Affairs may occaſion them to travel or walk abroad at ſeaſonable hours in the dark of the Evenings, all Inhabitants are required duly to hang and keep out their Candle Light to the accuſtomed hour; and the Conſtables to ſet and continue their Watches at ſuch times, and of ſuch number of able Men, and in all other reſpects, as by Acts of Common Council in this behalf is directed and appointed.</p>
+            <p>And foraſmuch as the Franchiſes and Liberties of this City are of late years much invaded and violated by Forreiners, Strangers, Aliens, and others taking upon them the Employment of Brokers upon the <hi>Royal Exchange, London;</hi> His Lordſhip doth Order with the Advice afore<g ref="char:EOLhyphen"/>ſaid; That no Perſon or Perſons whatſoever ſhall at any time hereafter uſe the Feat or Exerciſe of a Broker, or by any means deal or intermeddle as a Broker, between Merchant and Mer<g ref="char:EOLhyphen"/>chant, or other Buyer or Seller within the ſaid City and Liberties for Fee or other Profit, unleſs he be firſt duly admitted, and ſworn to deal truly betwixt the Buyer and the Seller, and bound by Recognizance, according to a late Act of Common Council in that behalf, and upon the Penalties therein contained.</p>
+            <p>And his Lordſhip doth declare, That he will not only deem it a good and acceptable Service in any, who, from good and honeſt Intentions, ſhall bring Complaint or Information of any the before-mentioned or other like Offences againſt His Majeſties Peace and the quiet Eſtate and Government of this City; but will give all juſt Encouragement and Rewards alſo (where the Law directs) to ſuch honeſt and well-meaning Perſons as ſhall employ themſelves to this purpoſe for the Publick Welfare.</p>
+            <p>And to the end that no Conſtable or other Officers or Miniſters of Iuſtice, may be any ways diſcouraged in their lawful, diligent, and vigorous Proſecution of the premiſſes; It is pro<g ref="char:EOLhyphen"/>vided, That if they or any of them ſhall be reſiſted in the juſt and lawful Execution of their Charge and Duty, or in any wiſe affronted or abuſed, they ſhall be encouraged, maintained, and vindicated by the Iuſtice, Order, and Authority of the Court of Aldermen, and the Offen<g ref="char:EOLhyphen"/>ders proſecuted and puniſhed according to Law.</p>
+            <closer>
+               <dateline>Dated at the <hi>Guild-hall, London,</hi> 
+                  <date>the 7<hi rend="sup">th</hi> of <hi>November,</hi> 1671 in the Three and twentieth year of the Reign of our Sovereign Lord CHARLES the Second, by the Grace of GOD, of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> King, Defender of the Faith, <hi>&amp;c,</hi>
+                  </date>
+               </dateline>
+               <lb/> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of <hi>LONDON,</hi> at his Houſe in <hi>Alderſgateſtreet.</hi> MDCLXXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
